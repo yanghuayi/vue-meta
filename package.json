@@ -44,7 +44,7 @@
     "rollup-plugin-node-resolve": "^3.0.0",
     "snazzy": "^7.0.0",
     "standard": "^10.0.2",
-    "uglify-js": "^3.0.6",
+    "uglify-js": "^3.0.14",
     "update-section": "^0.3.3",
     "vue": "^2.3.3",
     "vue-loader": "^12.0.4",
